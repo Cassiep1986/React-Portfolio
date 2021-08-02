@@ -78,11 +78,11 @@ header {
   color: rgb(95, 93, 93);
 } */
 
-img {
+/* img {
   border: solid;
   border-color: aliceblue;
   border-radius: 8px;
-}
+} */
 
 /* .pictext1 {
   position: absolute;
@@ -188,3 +188,12 @@ img {
   background-color: grey;
 }
 
+.resumeImg {
+  height: 80%vh;
+}
+
+.rtext {
+  font-weight: bold;
+  font-size: 24px;
+  color: lightblue;
+}

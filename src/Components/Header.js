@@ -7,9 +7,7 @@ function Header() {
         <a href="/">About Me</a>
         <a href="/portfolio">Portfolio</a>
         <a href="/contact">Contact Me</a>
-        <a href="/CassandraPacheco.pdf" download>
-          Resume
-        </a>
+        <a href="/resume">Resume</a>
       </nav>
     </header>
   );
