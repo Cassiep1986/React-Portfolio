@@ -12,23 +12,20 @@ header {
   bottom: 22px;
   display: block;
   border-radius: 25px;
-  margin-left: 431px;
-  margin-right: auto;
+  margin-left: 456px;
   width: 200px;
   height: 200px;
 }
 
 #name {
-  border-style: solid;
-  border-width: 0;
   padding: 2px;
   background-color: lightblue;
   color: rgb(95, 93, 93);
   font-weight: bold;
-  width: 325px;
+  width: 370px;
   position: absolute;
   left: 0px;
-  top: -21px;
+  top: 5px;
   text-align: right;
 }
 .topnav {
@@ -45,6 +42,10 @@ header {
   text-decoration: underline;
 }
 
+.topnav a:hover{
+  color: blue;
+}
+
 /* .flex1 {
   display: flex;
   flex-direction: row;
@@ -57,6 +58,7 @@ header {
   height: 50vh;
   flex: 2;
   padding: 12px;
+  font-size: 20px;
 }
 
 /* .flex2 {
@@ -196,4 +198,9 @@ header {
   font-weight: bold;
   font-size: 24px;
   color: lightblue;
+}
+
+.icons {
+  height: 50px;
+  width: 50px;
 }

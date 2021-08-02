@@ -19,12 +19,6 @@ function Aboutme() {
             following frameworks/libraries: React, Sequelize, Express, Inquirer,
             Bootstrap, Bulma, jQuery,{" "}
           </p>
-
-          <p>
-            In my off time I like to spend time with family. I also enjoy
-            baking, crafting and watching documentaries on Netflix. Please see
-            my work below as an example of some of my new learned skills.
-          </p>
         </section>
       </div>
     </>
