@@ -6,16 +6,19 @@ import Footer from "./Components/Footer";
 import Aboutme from "./Pages/aboutme";
 import Contact from "./Pages/contact";
 import Portfolio from "./Pages/portfolio";
+import Container from "./Components/Container"
 
 function App() {
   return (
     <>
       <Router>
         <Header />
+        <Container>
                  <Route  exact path="/" component={Aboutme}   />
                  <Route  exact path="/contact" component={Contact} />
                  <Route  exact path="/portfolio" component={Portfolio} />
- 
+                 </Container>
+        <Footer />
       </Router>
     </>
   );

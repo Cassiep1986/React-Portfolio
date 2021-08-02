@@ -1,15 +1,16 @@
 function Aboutme() {
   return (
     <>
+    <h1>About Me</h1>
       <img
-        className="headshot"
+        className="headshot mt-5"
         src="/images/Headshot.jpg"
         alt="Picture of Developer"
       />
 
-      <div className="flex1">
+      <div className="">
         <a name="Aboutme">
-          <h1>About Me</h1>
+          <h1></h1>
         </a>
         <section className="text">
           <p>

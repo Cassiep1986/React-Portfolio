@@ -1,13 +1,7 @@
 function Footer() {
   return (
     <footer>
-             <a name="Contactme">
-          <h1>
-            Contact
-            <br />
-            Me
-          </h1>
-        </a>
+
 
         <nav className="bottomnav">
           <a href="tel:6232164385">Phone</a>

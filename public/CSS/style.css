@@ -6,6 +6,7 @@ body {
 header {
   background-color: rgb(95, 93, 93);
 }
+
 .headshot {
   position: relative;
   bottom: 22px;
@@ -44,20 +45,21 @@ header {
   text-decoration: underline;
 }
 
-.flex1 {
+/* .flex1 {
   display: flex;
   flex-direction: row;
   margin-right: 160px;
   margin-left: 90px;
   gap: 18px;
-}
+} */
 
 .text {
+  height: 50vh;
   flex: 2;
   padding: 12px;
 }
 
-.flex2 {
+/* .flex2 {
   display: flex;
   flex-direction: row;
   margin-left: 153px;
@@ -68,13 +70,13 @@ header {
   width: 705px;
   height: 350px;
   /* padding-left: 19px; */
-}
+/* } */ 
 
-.textcontainer {
+/* .textcontainer {
   position: relative;
   text-align: center;
   color: rgb(95, 93, 93);
-}
+} */
 
 img {
   border: solid;
@@ -82,14 +84,14 @@ img {
   border-radius: 8px;
 }
 
-.pictext1 {
+/* .pictext1 {
   position: absolute;
   bottom: -21px;
   left: 303px;
   font-size: 30px;
   border: solid;
   background-color: aliceblue;
-}
+} */
 
 .repotext1 {
   position: absolute;
@@ -117,7 +119,7 @@ img {
 .repotext2:hover {
   background-color: blue;
 }
-.pictext2 {
+/* .pictext2 {
   position: absolute;
   bottom: -21px;
   left: 25px;
@@ -133,18 +135,18 @@ img {
   font-size: 30px;
   border: solid;
   background-color: aliceblue;
-}
+} */
 
-.flex3 {
+/* .flex3 {
   display: flex;
   align-items: center;
   margin-right: 278px;
   margin-left: 263px;
-}
-.cardimg {
+} */
+/* .cardimg {
   width: 350px;
   height: 350px;
-}
+} */
 
 .contact {
   display: flex;
@@ -154,6 +156,7 @@ img {
   font-size: 22px;
 }
 .bottomnav {
+  height: 15vh;
   display: block;
   text-align: center;
   margin-top: 50px;
@@ -163,4 +166,17 @@ img {
   font-size: 20px;
   padding: 64px;
   text-decoration: underline;
+}
+
+.g-3 {
+  height: 60vh;
+  margin-top: 5%;
+}
+
+.card-img-top {
+  height: 300px !important;
+}
+
+.current {
+  background-color: grey;
 }
