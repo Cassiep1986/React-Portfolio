@@ -23,7 +23,7 @@ function Portfolio() {
             <button className="repotext2">Repo link</button>
           </a>
           <a href="https://financial-buzz.herokuapp.com">
-      <img src="./images/Financial_buzz.PNG" className="card-img-top w-100" alt="Application image"/>
+      <img src="./images/Financial_buzz.PNG" className="card-img-top w-100" alt="Snippit of Application"/>
       </a>
       <div className="card-body">
         <h5 className="card-title">Financial Buzz</h5>
@@ -37,7 +37,7 @@ function Portfolio() {
             <button className="repotext2">Repo link</button>
           </a>
           <a href="https://adamdavidburch42.github.io/Jokester">
-      <img src="./images/Jokester_Snippet.PNG" className="card-img-top w-100" alt="Application Image"/>
+      <img src="./images/Jokester_Snippet.PNG" className="card-img-top w-100" alt="Snippit of Application"/>
       </a>
       <div className="card-body">
         <h5 className="card-title">Jokester</h5>
@@ -65,7 +65,7 @@ function Portfolio() {
             <button className="repotext2">Repo link</button>
           </a>
           <a href="https://cassiep1986.github.io/Third-Party-APIs-Work-Day-Scheduler/">
-      <img src="./images/workday.PNG" className="card-img-top w-100 h-80 " alt="Application image"/>
+      <img src="./images/workday.PNG" className="card-img-top w-100 h-80 " alt="Snippit of Application"/>
       </a>
       <div className="card-body">
         <h5 className="card-title">WorkDay Scheduler</h5>

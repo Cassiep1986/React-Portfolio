@@ -5,13 +5,10 @@ function Aboutme() {
       <img
         className="headshot mt-5"
         src="/images/Headshot.jpg"
-        alt="Picture of Developer"
+        alt="Developer's Headshot"
       />
 
-      <div className="">
-        <a name="Aboutme">
-          <h1></h1>
-        </a>
+      <div >
         <section className="text">
           <p>
             Hello, my name is Cassandra Pacheco and I am a (soon to be)

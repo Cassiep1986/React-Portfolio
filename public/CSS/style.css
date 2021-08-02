@@ -169,8 +169,15 @@ img {
 }
 
 .g-3 {
+  width: 50%;
   height: 60vh;
   margin-top: 5%;
+  margin-left: 24%;
+  border-color: black;
+  border: 2px;
+  border-style: solid;
+  background-color: aliceblue;
+  
 }
 
 .card-img-top {
@@ -180,3 +187,4 @@ img {
 .current {
   background-color: grey;
 }
+
