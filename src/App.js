@@ -7,7 +7,7 @@ import Aboutme from "./Pages/aboutme";
 import Contact from "./Pages/contact";
 import Resume from "./Pages/resume";
 import Portfolio from "./Pages/portfolio";
-import Container from "./Components/Container"
+import Container from "./Components/Container";
 
 function App() {
   return (
@@ -19,7 +19,7 @@ function App() {
                  <Route  exact path="/contact" component={Contact} />
                  <Route  exact path="/portfolio" component={Portfolio} />
                  <Route  exact path="/resume" component={Resume} />
-                 </Container>
+          </Container>
         <Footer />
       </Router>
     </>
