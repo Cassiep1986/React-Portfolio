@@ -7,7 +7,7 @@ function Header() {
 
       <nav className="topnav">
 
-        <NavLink to="/" activeStyle={{color:"violet"}}>About Me</NavLink>
+        <NavLink to="/" exact activeStyle={{color:"violet"}}>About Me</NavLink>
 
         <NavLink to="/portfolio"activeStyle={{color:"violet"}}>Portfolio</NavLink>
 
@@ -15,6 +15,7 @@ function Header() {
 
         <NavLink to="/resume"activeStyle={{color:"violet"}}>Resume</NavLink>
       </nav>
+
     </header>
     
   );
