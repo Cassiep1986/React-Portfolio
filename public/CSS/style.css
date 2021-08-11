@@ -136,3 +136,8 @@ header {
   height: 50px;
   width: 50px;
 }
+
+.aboutme {
+  font-family:Roboto, Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
