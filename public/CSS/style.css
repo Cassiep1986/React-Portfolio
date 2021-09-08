@@ -144,3 +144,7 @@ header {
   font-family:Roboto, Arial, Helvetica, sans-serif;
   font-size: 30px;
 }
+
+.titlespace {
+  margin-bottom: 50px;
+}
