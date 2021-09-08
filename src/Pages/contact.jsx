@@ -1,29 +1,13 @@
 function Contact () {
     return (
       <>
-          <h1>Contact Me</h1>
-<form className="row g-3 was-validated">
-  <div className="col md-6">
-  <label htmlFor="validationTextarea" className="form-label">First Name</label>
-    <input type="text" className="form-control is-invalid" placeholder="Field Required" required aria-label="First name"/>
-  </div>
-  <div className="col md-6">
-  <label htmlFor="validationTextarea" className="form-label">Last Name</label>
-    <input type="text" className="form-control is-invalid" placeholder="Field Required" required aria-label="Last name"/>
-  </div>
-  <div className="col-12">
-  <label htmlFor="validationTextarea" className="form-label">Email</label>
-  <input type="email" className="form-control is-invalid" placeholder="Field Required" required aria-label="Email"/>
+          <h1>Contact Info</h1>
 
-  </div>
-  <div className="mb-3">
-    <label htmlFor="validationTextarea" className="form-label">Message</label>
-    <textarea className="form-control is-invalid" id="validationMessage" placeholder="Field Required" required></textarea>
-    <div className="col-12 mt-5">
-    <button className="btn btn-info" type="submit">Submit form</button>
-  </div>
-  </div>
-</form>
+<h5>Email: cassiep1986@gmail.com</h5>
+<h5>Github: https://github.com/Cassiep1986</h5>
+<h5>Linkedin: https://www.linkedin.com/in/cassandra-pacheco-367ab376/</h5>
+
+(Links below)
 
    
      </> 

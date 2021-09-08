@@ -11,12 +11,9 @@ function Aboutme() {
       <div >
         <section className="text">
           <p className = "aboutme">
-            Hello, my name is Cassandra Pacheco and I am a full-stack web developer. Although new to web development,
-            I have completed a full-stack coding bootcamp program with the
-            University of Arizona learning the following languages: HTML, CSS,
-            Javascript (including Node.JS), SQL. I also have experience with the
-            following frameworks/libraries: React, Sequelize, Express, Inquirer, Mongodb,
-            Bootstrap, Bulma, jQuery, and Material UI. 
+          I am a recent graduate of the Full Stack Web Development course at the University of Arizona with a background in pharmacy. With newly developed skills in HTML, CSS, JavaScript, React.js, MySQL,Graph QL, and other frameworks/libraries, I have created  applications for both practice and demonstration purposes. 
+          
+          Known for my passion of organization and efficiency, my objective is to create an experience that is both user friendly and engaging. As an experienced leader and collaborator, I am thrilled to use both my well developed and newly learned skills to become an integral team member in the creation and improvement of client/user experiences online.   
           </p>
         </section>
       </div>
