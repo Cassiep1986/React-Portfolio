@@ -7,16 +7,6 @@ header {
   background-color: rgb(95, 93, 93);
 }
 
-.headshot {
-  position: relative;
-  bottom: 22px;
-  display: block;
-  border-radius: 25px;
-  margin-left: 456px;
-  width: 200px;
-  height: 200px;
-}
-
 #name {
   padding: 2px;
   background-color: lightblue;
@@ -52,34 +42,6 @@ header {
   flex: 2;
   padding: 12px;
   font-size: 20px;
-}
-
-
-.repotext1 {
-  position: absolute;
-  top: 5px;
-  left: 317px;
-
-  font-size: 15px;
-  border: solid;
-  background-color: aliceblue;
-}
-
-.repotext1:hover {
-  background-color: blue;
-}
-
-.repotext2 {
-  position: absolute;
-  top: 7px;
-  left: 126px;
-  font-size: 15px;
-  border: solid;
-  background-color: aliceblue;
-}
-
-.repotext2:hover {
-  background-color: blue;
 }
 
 .contact {
@@ -142,9 +104,16 @@ header {
 
 .aboutme {
   font-family:Roboto, Arial, Helvetica, sans-serif;
-  font-size: 30px;
+  font-size: 20px;
 }
 
 .titlespace {
   margin-bottom: 50px;
+}
+
+.contactinfo {
+  border-style: solid;
+  border-radius: 20px;
+  background-color: aliceblue;
+  font-size: 28px;
 }

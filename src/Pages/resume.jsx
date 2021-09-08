@@ -1,7 +1,7 @@
 function Resume() {
     return (
       <>
-      <h1>My Resume</h1>
+      <h1 className = "titlespace">My Resume</h1>
   
         <div >
         <img className= "resumeImg" src = "/images/resumeimg.png" alt = "dev resume"/>

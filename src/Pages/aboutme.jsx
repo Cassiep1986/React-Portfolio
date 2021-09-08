@@ -1,12 +1,11 @@
 function Aboutme() {
   return (
     <>
-    <h1>About Me</h1>
+    <h1 className = "titlespace">About Me</h1>
       <img
-        className="headshot mt-5"
         src="/images/Headshot.jpg"
         alt="Developer's Headshot"
-      />
+      width="200" height="200" className="rounded-circle"/>
 
       <div >
         <section className="text">
