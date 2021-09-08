@@ -3,7 +3,7 @@ import { Card, Button } from "react-bootstrap";
 function Portfolio() {
   return (
 
-    <div className = "container  text-center">
+    <div className = "container text-center">
     <h1> My Work </h1>
     <div className="row row-cols-1 row-cols-md-2 g-4">
   <div className="col">
@@ -49,7 +49,7 @@ function Portfolio() {
       </a>
       <div className="card-body">
         <h5 className="card-title">Financial Buzz</h5>
-        <p className="card-text">This application will enable a user to create a budget to manage their monthly expenses with ease. Using submitted income and cost information, a remaining balance will be provider to the user enabling additional future financial planning.</p>
+        <p className="card-text">This full stack application uses javaScript, and sequelize to enable a user to create a budget to manage their monthly expenses with ease. Bootstrap and handlebars create a clean UI that displays submitted income and cost information. A remaining balance is provide to the user enabling additional future financial planning.</p>
         <a href="https://github.com/Cassiep1986/Financial-Buzz"><Button variant="primary">Repo Link</Button></a>
       </div>
     </div>
@@ -61,7 +61,7 @@ function Portfolio() {
       </a>
       <div className="card-body">
         <h5 className="card-title">Readme Generator</h5>
-        <p className="card-text">This full stack application uses javaScript, handlebars and sequelize to enable a user to add and remove "Tech Blog" posts using an individualized user account.</p>
+        <p className="card-text">This application uses node.js and inquirer to create a professional Readme markdown file..</p>
         <a href="https://github.com/Cassiep1986/Professional-README-Generator"><Button variant="primary">Repo Link</Button></a>
       </div>
     </div>
