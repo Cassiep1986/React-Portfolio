@@ -60,7 +60,7 @@ function Portfolio() {
       <img src="./images/README_Demo_Video.gif" className="card-img-top w-100" alt="Application Demo Gif"/>
       </a>
       <div className="card-body">
-        <h5 className="card-title">Readme Generator</h5>
+        <h5 className="card-title">Professional Readme Generator</h5>
         <p className="card-text">This application uses node.js and inquirer to create a professional Readme markdown file..</p>
         <a href="https://github.com/Cassiep1986/Professional-README-Generator" target="_blank" rel="noopener noreferrer"><Button variant="primary">Repo Link</Button></a>
       </div>
