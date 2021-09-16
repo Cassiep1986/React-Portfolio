@@ -12,7 +12,7 @@ This application contains my developer portfolio.
 - [Questions](#Questions)
 
 ## Installation
-This application is deployed at the following link [https://gracious-pasteur-71b41c.netlify.app/](https://gracious-pasteur-71b41c.netlify.app/).
+This application is deployed at the following link: [https://gracious-pasteur-71b41c.netlify.app/](https://gracious-pasteur-71b41c.netlify.app/).
 
 ## Usage
 
@@ -24,12 +24,12 @@ The following image shows the application's user interface
 ## License
 
 This application is covered under a MIT license. 
-To learn more about this license, please visit this [site](https://choosealicense.com/licenses/mit/).
+To learn more about this license, please visit the following site: [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/).
 
 ## Contributing
 To contribute to this repo, please contact me on GITHUB or by email (Link below).
 
 ## Questions
-This application can be found on my [github](https://www.github.com/cassiep1986?tab=repositories/).
+Additional information for this application can be found on my [github](https://www.github.com/cassiep1986?tab=repositories/).
 
 For additonal questions you can contact me by [email](mailto:cassiep1986@gmail.com).
