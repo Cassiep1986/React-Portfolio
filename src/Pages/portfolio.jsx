@@ -20,13 +20,13 @@ function Portfolio() {
   </div>
   <div className="col">
     <div className="card">
-          <a href="https://github.com/Cassiep1986/Jokester" target="_blank" rel="noopener noreferrer">
+          <a href="https://cassiep1986.github.io/Jokester/" target="_blank" rel="noopener noreferrer">
       <img src="./images/Jokester_Snippet.PNG" className="card-img-top w-100" alt="Snippit of Application"/>
       </a>
       <div className="card-body">
         <h5 className="card-title">Jokester</h5>
         <p className="card-text">This project uses JQuery and jokeapi to retrieve a collection of jokes for the user to search by category. Designed using Bulma CSS framework, the user also has the ability to obtain a random joke and save their favorite jokes to local storage.</p>
-        <a href="https://cassiep1986.github.io/Jokester/" target="_blank" rel="noopener noreferrer"><Button variant="primary">Repo Link</Button></a>
+        <a href="https://github.com/Cassiep1986/Jokester" target="_blank" rel="noopener noreferrer"><Button variant="primary">Repo Link</Button></a>
       </div>
     </div>
   </div>
