@@ -1,7 +1,7 @@
 # React Portfolio [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
 ## Description
-This application creates a professional README markdown file.
+This application contains my developer portfolio.
 
 ## Table of contents
 - [Description](#Description)
