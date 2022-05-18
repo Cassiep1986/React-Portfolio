@@ -9,12 +9,14 @@ import Resume from "./Pages/resume";
 import Portfolio from "./Pages/portfolio";
 import Container from "./Components/Container";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Sidebar from "./Components/Sidebar";
 
 function App() {
   return (
     <>
       <Router>
         <Header />
+        <Sidebar />
         <Container>
                  <Route  exact path="/" component={Aboutme}   />
                  <Route  exact path="/contact" component={Contact} />
