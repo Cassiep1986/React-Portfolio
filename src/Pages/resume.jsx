@@ -6,7 +6,7 @@ function Resume() {
         <div >
         <img className= "resumeImg" src = "/images/resumeimg.png" alt = "dev resume"/>
         </div>
-        <a className="rtext" href="./Cassandra_Pacheco_Resume.pdf" download>Download my Resume here</a>
+        <a className="rtext" href="./Cassandra_Pacheco_Resume.pdf" target="_blank" download>Download my Resume here</a>
       </>
     );
   }

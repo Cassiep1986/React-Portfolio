@@ -1,3 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
+#page-wrap {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
 body {
   font-family: Helvetica, Arial, serif;
   background-image: linear-gradient(white, lightblue, rgb(179, 176, 176));
