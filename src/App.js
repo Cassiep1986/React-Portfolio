@@ -8,7 +8,7 @@ import Contact from "./Pages/contact";
 import Resume from "./Pages/resume";
 import Portfolio from "./Pages/portfolio";
 import Container from "./Components/Container";
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "bootstrap/dist/css/bootstrap.min.css";
 import Sidebar from "./Components/Sidebar";
 
 function App() {
@@ -16,13 +16,16 @@ function App() {
     <>
       <Router>
         <Header />
-        <Sidebar />
+        {/* <Sidebar
+          pageWrapId={"page-wrap"}
+          outerContainerId={"outer-container"}
+        /> */}
         <Container>
-                 <Route  exact path="/" component={Aboutme}   />
-                 <Route  exact path="/contact" component={Contact} />
-                 <Route  exact path="/portfolio" component={Portfolio} />
-                 <Route  exact path="/resume" component={Resume} />
-          </Container>
+          <Route exact path="/" component={Aboutme} />
+          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/portfolio" component={Portfolio} />
+          <Route exact path="/resume" component={Resume} />
+        </Container>
         <Footer />
       </Router>
     </>
