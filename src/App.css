@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.ck {
+  color: #ADD8e6;
+  padding: 8px;
+  /* border: 5px solid black; */
+
+}
