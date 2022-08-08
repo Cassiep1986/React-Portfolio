@@ -12,7 +12,7 @@ This application contains my developer portfolio.
 - [Questions](#Questions)
 
 ## Installation
-This application is deployed at the following link: [https://cassandrapacheco.netlify.app/](https://cassandrapacheco.netlify.app/).
+This application is deployed at the following link: [https://cassandrakuntz.netlify.app/](https://cassandrakuntz.netlify.app/).
 
 ## Usage
 
