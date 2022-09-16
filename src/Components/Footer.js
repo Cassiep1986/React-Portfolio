@@ -6,7 +6,7 @@ function Footer() {
 
           <a href="tel:6232164385"> <img src = "/images/icons/smartphone.png" alt = "Smartphone Icon" className ="icons"/></a>
 
-          <a href="mailto:cassiep1986@gmail.com"><img src = "/images/icons/message.png" alt = "Email Icon" className = "icons"/></a>
+          <a href="mailto:ckdev404@gmail.com"><img src = "/images/icons/message.png" alt = "Email Icon" className = "icons"/></a>
 
           
           <a 
